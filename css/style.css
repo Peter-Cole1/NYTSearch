@@ -1,5 +1,5 @@
 #titleRow{
-    background-color: #1d1d5c;
+    background-color: hsl(240, 95%, 71%);
     text-align: center;
     height: 10em;
     padding-top: 3em;
@@ -7,16 +7,58 @@
 }
 
 #searchBox{
-    background-color: lightcoral;
-    height: 25em;
-    border-color: black;
-    border-width: 1em;
+    background-color: white;
+    height: 28em;
+    border-color: lightgray;
+    border-width: 1%;
+    border-style: solid;
+    border-radius: 0.5em;
+       
 
 }
 
 #searchHeader{
     text-align: left;
-    background-color: lightpink;
+    background-color: lightgray;
+    width: 100%;
+    
 
 }
 
+.inputBox{
+    width: 90%;
+    margin-bottom: 2em;
+    border-radius: 0.5em;
+}
+
+#search, #clear{
+    background-color: white;
+    border-style: none;
+    
+}
+
+#search{
+    margin-right: 2em;
+}
+
+#bumper{
+    height: 7em;
+}
+
+#bumper2{
+    height: 5em;
+}
+
+#resultsHeader{
+    text-align: left;
+    background-color: lightgray;
+    width: 100%;
+}
+
+#resultsBox{
+    background-color: white;
+    height: 5em;
+    border-color: lightgray;
+    border-width: 1%;
+    border-style: solid;
+    border-radius: 0.5em;}
