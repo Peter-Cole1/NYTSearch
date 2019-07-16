@@ -1,0 +1,22 @@
+#titleRow{
+    background-color: #1d1d5c;
+    text-align: center;
+    height: 10em;
+    padding-top: 3em;
+    color: antiquewhite;
+}
+
+#searchBox{
+    background-color: lightcoral;
+    height: 25em;
+    border-color: black;
+    border-width: 1em;
+
+}
+
+#searchHeader{
+    text-align: left;
+    background-color: lightpink;
+
+}
+
